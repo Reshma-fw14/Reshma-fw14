@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Reshma</h1>
-<div align="center"><h3 align="center">Full Stack Web-Developer | Building, Creating and Maintaining Websites.</h3>
+<div align="center"><h3 align="center">Full Stack Web-Developer</h3>
 <h3 align="center">Willing to work in a Encourage creativity with an inclusive team environment </h3>
 
 <br/>
