@@ -8,7 +8,7 @@
 
 <h3>Gap.com (clone) </h3>
 
-git-repo link : https://github.com/pavankalyangojju/gap-project
+Github : https://github.com/pavankalyangojju/gap-project
 <br/>
 visit : https://gap-website-project.netlify.app/
 <br/>
